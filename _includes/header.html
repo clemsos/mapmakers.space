@@ -1,0 +1,17 @@
+<header class="header">
+
+  <div class="hero main-thumbnail" style="background-image:url('{{page.thumbnail}}'); {% if page.thumbnail-position %} background-position:{{page.thumbnail-position}} {% endif %}" >
+  </div>
+
+  <div class="overlay"></div>
+  <div class="header-title">
+    <h1>{{ page.title }}</h1>
+    <h4>{{ page.subtitle }}</h4>
+    <h5>
+      {% if page.date %} {{page.date}} {% endif %}
+      {% if page.place %} - {{page.place}} {% endif %}
+    </h5>
+  </div>
+
+
+</header>

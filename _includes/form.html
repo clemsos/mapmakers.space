@@ -1,0 +1,20 @@
+<form action="https://formspree.io/clement.renaud@epfl.ch" method="POST" enctype="multipart/form-data">
+  <div class="row">
+    <div class="six columns">
+      <label for="nameInput">Your name</label>
+      <input class="u-full-width" type="text" placeholder="Your name..." id="nameInput" name="name">
+    </div>
+    <div class="six columns">
+      <label for="exampleEmailInput">Your email</label>
+      <input class="u-full-width" type="email" placeholder="test@mailbox.com" id="exampleEmailInput" name="_replyto">
+    </div>
+  </div>
+  <div class="row">
+    <label for="exampleMessage">Message</label>
+    <textarea class="u-full-width" style="height:300px" placeholder="Explain who you are and why you plan to attend the workshop…" id="message" name="message" height="30%" maxlength="4000"></textarea>
+    <p><small>(max 4000 characters)</small></p>
+    <input type="hidden" name="subject" value="Workshop Renens : new submission " />
+    <input type="hidden" name="_after" value="./thanks.html" />
+    <input class="button-primary" type="submit" value="Submit">
+  </div>
+</form>
