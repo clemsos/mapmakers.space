@@ -3,10 +3,16 @@
 */
 
 body {
-  font-size: 12pt
+  font-size: 13pt
 }
 img {
   max-width: 100%
+}
+
+blockquote {
+  padding-left: 1em;
+  font-size: 1.5em;
+  margin: 3em 0;
 }
 
 .intro {
