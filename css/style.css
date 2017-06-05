@@ -25,6 +25,12 @@ h2 {
   color: white
 }
 
+table p {
+    margin-bottom: .1rem
+}
+table li {
+    margin-bottom: .1rem
+}
 .hero {
   max-height: 100%;
   overflow: hidden;

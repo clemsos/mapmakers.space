@@ -42,56 +42,49 @@ Moreover, the passive position of the observer seems to oppose to the active sta
 
 ## The Workshop
 
-![Workshop pic](./uploads/workshop/ateliers-renens.JPG)
-<small>Nicolas Nova (cc)</small>
+The workshop **"How to study makerspaces?"** took place on the **18<sup>th</sup> and 19<sup>th</sup> May, 2017** in Renens, Switzerland. During two days, we were hosted at **Les Ateliers de Renens**, an old printing factory repurposed into a creative cluster hosting a makerspace, a fablab, a bio-hacklab, a coworking space and many other initiatives.  
 
-The "How to study makerspaces?" took place on the **18<sup>th</sup> and 19<sup>th</sup> May, 2017** at **Les Ateliers de Renens** in Renens, Switzerland. During the two days, we were hosted at the Ateliers de Renens, an old printing factory repurposed into a creative cluster hosting a makerspace, a fablab, a bio-hacklab, a coworking space and many other initiatives.  
+![Workshop pic](./uploads/workshop/ateliers-renens.JPG)
+<small>Les Ateliers de Renens regroups a makerspaces, a hackerspace, a coworking space, a restaurant, and much more -- photo : Nicolas Nova (cc)</small>
+
+
+It brought together 15 makers and practitioners from different background and disciplines to design new methods, processes, protocols or tools that can support the study of makerspaces. Architects, designers, sociologists, makers, and much more exchanged and discussed about their different practices of research. There weren’t any formal presentations. We divided our time in short work sessions of discussions, field exploration, on-hands prototyping or online/offline experiments. At the end of the workshop, the results were presented during a small public event of restitution.
 
 
 ![Dessins Portraits Vivien](./uploads/workshop/Portraits-VivienRoussel.jpg)
-<small>Vivien Roussel (cc)</small>
+<small> 15 participants and several interviewees took part in this workshop --
+drawings : Vivien Roussel (cc)</small>
 
-It brought together 15 makers and practitioners from different background and disciplines to design new methods, processes, protocols or tools that can support the study of local and open-ended objects. (see the [list of participants](https://docs.google.com/document/d/1dlhRdlmGQuOFfA7xZZ08ssz-jC6Kol8eaQ0jLBuZIXY/edit) and the [program](https://drive.google.com/drive/folders/0BxljeuE58FLXaE90ZEdWYmhYTWc))
 
-We experimented with new ways to observe, record and map activities, changes, discourses and stakes that surround the space. Our goal is to develop and test together methods that can be reused to draw portraits of similar places in different contexts.
+We experimented with new ways to observe, record and map activities, changes, discourses and stakes that surround the space. We tested together methods that can be reused to draw portraits of similar places in different contexts.
 
 {% include slideshow.html images=page.images_anais %}
-<small>Sketched notes by Anaïs Bloch (cc)</small>
+<small>The 2 days were a complex process of common discussion, reflection and action -- notes by Anaïs Bloch (cc)</small>
 
-
-Architects, designers, sociologists, makers, and much more so we want to provide this opportunity to exchange and discuss about your different practices of research. There won’t be formal presentations. We will divide our time in short work sessions of discussions, field exploration, on-hands prototyping or online/offline experiments. At the end of the workshop, we will present the results during a small public event of restitution.
 
 ##### The program
 
-| **May 17th**  | |
-| 6pm | First exploration of the space |
-| 7pm | Presentation at Biohack Lab [Hackuarium](http://wiki.hackuarium.ch/w/Main_Page) |
+The workshop started on May 17th evening by a short presentation of the project at the biohack lab [Hackuarium](http://wiki.hackuarium.ch/w/Main_Page).
 
-| **May 18th**  |  |
-| Morning  | Define objectives and groups |
-| 9am  | Start / Introduction |
-| 10:30am  | Interview with Vanessa Lorenzo Toquero (Hackuarium) |
-| Afternoon  | Space exploration in groups |
-| 4pm  | Interview with  (Renens' Mayor Office, Cultural Affairs)  |
+<embed src="./uploads/Workshop - How to Study Makerspaces - Introduction.pdf" width="960" height="600" type='application/pdf'>
 
-| **May 19th**  |  |
-| Morning  | Prototype and test methods  |
-| 9am  | Group feedbacks |
-| 10am  | Interview with Christophe Rouiller (Univercite / Mass Challenge) |
-| Afternoon  | Production and templating |
-| 5pm  | Public restitution  |
-| 7pm  | Debrief & afterwork !  |
+
+| **May 18th**  |  | | **May 19th**  |  |
+| Morning  | Define objectives and groups | | Morning  | Prototype and test methods  |
+| 9am  | Start / Introduction | | 9am  | Group feedbacks |
+| 10:30am  | Interview with Vanessa Lorenzo Toquero (Hackuarium) | | 10am  | Interview with Christophe Rouiller (Univercite / Mass Challenge) |
+| Afternoon  | Space exploration in groups | | Afternoon  | Production and templating |
+| 4pm  | Interview with  (Renens' Mayor Office, Cultural Affairs)  | | 5pm  | Public restitution  |
+| 5:30pm |Final discussion || 7pm  | Debrief & afterwork !  |
 
 
 
 ## The Challenge : prototyping methods
 
-<embed src="./uploads/Workshop - How to Study Makerspaces - Introduction.pdf" width="960" height="600" type='application/pdf'>
 
+We wanted to lead experiment with different methods to study makerspaces. We came with open questions and a list of topics we wanted to approach during the workshop. Most were practical questions regarding fieldwork.
 
-
-The topics we have in mind are diverse and include :
-Here are some open questions we plan to approach during the workshop :
+#### What can researcher make?
 
 **HOW TO**
 
@@ -107,16 +100,26 @@ Here are some open questions we plan to approach during the workshop :
 - Plan the communication of the research with local communities?
 - etc.
 
-* How to conduct an interview using visualisations?
-* How to record activities using drawings or photography?
-* How to map the networks from inside and outside a space?
-* How to lead a study across multiple spaces?
-* How to leverage data from existing websites?
 
-Some of these different methods may include : experimental design (fast prototyping, user testing, etc), ethnographic field work (interviews, note-taking, sketching, etc), data-based analysis (text mining, online social network mapping, etc ),  sensible approaches of urbanity (soundscapes, exploratory walks, etc)...
+#### Three main thematics
+
+We looked at different methods such as : experimental design (fast prototyping, user testing, etc), ethnographic field work (interviews, note-taking, sketching, etc), data-based analysis (text mining, online social network mapping, etc ), sensible approaches of urbanity (soundscapes, exploratory walks, etc)...
+
+Finally we decided to divide the group according to three main thematics to organize the work during the three days:
+
+* Creative Interviews
+* Network Mapping
+* Comparative Study / Multiple spaces
+
+
+![Workshop pic](./uploads/workshop/people.jpg)
+<small> 3 groups of researcher working together during the 2 days -- credits : Marc Laperrouza (cc)</small>
 
 
 #### The template
+
+To organize the reflection about methods, a basic template was defined to reflect the process of a complete scientific method.
+
 
 | HOW TO <br> conduct | Creative Interviews | Network Mapping | Comparative Study / Multiple spaces |
 |---|---|---|---|
@@ -130,10 +133,6 @@ Some of these different methods may include : experimental design (fast prototyp
 
 
 ## The Results
-
-After 2 days, we produced different elements that can be found on the dedicated [shared folder](https://drive.google.com/drive/u/0/folders/0BxljeuE58FLXaE90ZEdWYmhYTWc)
-
----
 
 #### Comparative Study / Multiple spaces
 
@@ -175,125 +174,151 @@ Read the [HOWTO](https://docs.google.com/document/d/1KjlTmIgqNviWBwbdFGbuneJ_paE
 
 #### Creative Interviews
 
-Three different unusual ways of conducting interviews have been imagined and tested during the workshop:
+A toolbox for conducting interviews in unusual ways. The three models have been imagined and tested during the workshop.
 
-![Net Mapping Resulst](./uploads/workshop/itw_group.jpg)
+![ITW group](./uploads/workshop/itw_group.jpg)
+
+#### TOOL 1 : INTERACTIVE INTERFACE
 
 <table>
-<thead>
-<tr class="header">
-<th></th>
-<th></th>
-<th><strong>Creative Interviews</strong></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td><p>TOOL 1</p>
-<p><span id="OLE_LINK3" class="anchor"><span id="OLE_LINK4" class="anchor"></span></span><strong>INTERACTIVE INTERFACE</strong></p></td>
-<td><p>TOOL 2</p>
-<p><strong>CO-APPRENDICESHIP</strong></p></td>
-<td><p>TOOL 3</p>
-<p><strong>MUTUAL PROFILE</strong></p></td>
-</tr>
-<tr class="even">
 <td>PREPARE</td>
-<td><p>Online Interactive interfaces can engage people from different locations in the discussion in either real time or non-real time mode.</p>
-<p>It is most effective to facilitate the multi-sited and comparative studies on makerspaces by overcoming the difficulties in terms of language problem, time difference, etc.</p>
-<p>Besides, depending on different platform you choose, it can allow one-to-one, one-to-many, or many-to-many conversations. So it is a very versatile method.</p>
+<td><p>Online Interactive interfaces can engage people from different locations in the discussion in either real time or non-real time mode. It is most effective to facilitate the multi-sited and comparative studies on makerspaces by overcoming the difficulties in terms of language problem, time difference, etc. Besides, depending on different platform you choose, it can allow one-to-one, one-to-many, or many-to-many conversations. So it is a very versatile method.</p>
 <ol style="list-style-type: decimal">
-<li><p>Addressing ethical issues (anonymous or real name)</p></li>
-<li><p>Aligning purpose and design (platform to chose, identify your research subjects)</p></li>
-<li><p>Sampling an recruiting (the informants)</p></li>
-<li><p>Familiarize yourself with the protocols and communications options in the interface that is chosen</p></li>
+<li>Addressing ethical issues (anonymous or real name)</li>
+<li>Aligning purpose and design (platform to chose, identify your research subjects)</li>
+<li>Sampling an recruiting (the informants)</li>
+<li>Familiarize yourself with the protocols and communications options in the interface that is chosen</li>
 </ol></td>
-<td>Thinking about what kind of dimensions we are the most interested in (spatial organisation, interaction with others, alternation between desk computer and other machine work etc.) so as to direct the look.<br />
-A little bit of info about makerspaces so as to avoid appearing ignorant or unprepared and so as to be ready to feed the conversation if necessary. Also, some questions are not easy to fit in the discussions or to start a conversation with and that would go smoother if we are equipped to launch the conversation.</td>
-<td><p>Aim of this tool is to offer a win-win insight of a makerspaces community. Ideally, the whole community should be informed about and involved in the interview process, or at least as many person as possible. We could also consider including informant from outside the makerspaces (relatives, institution, clients, etc.)</p>
-<p>The interview questions are prepared in advance.</p>
-<p>The participants know that by agreeing to be interviewed, they will receive in exchange a description of how they are perceived by their coworkers. </p>
-<p>The intention is to make the whole interview process fun, rewarding, and strengthening ties within the community.</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>CONDUCT</td>
-<td><p>Platform similar to Quora: frame the question clearly and concisely and invite the informants to ask</p>
-<p>Online chatting</p>
+<td><p>Platform similar to Quora: frame the question clearly and concisely and invite the informants to ask. Online chatting</p>
 <ol style="list-style-type: decimal">
-<li><p>Provide any background information in advance so you can move quickly into a dynamic exchange</p></li>
-<li><p>Articulate questions that elicit shorter responses, break big questions into a series of subquestions.</p></li>
-<li><p>Moderate the discussion</p></li>
-<li><p>Summarize the findings and wrap up the discussions.</p></li>
+<li>Provide any background information in advance so you can move quickly into a dynamic exchange</li>
+<li>Articulate questions that elicit shorter responses, break big questions into a series of subquestions.</li>
+<li>Moderate the discussion</li>
+<li>Summarize the findings and wrap up the discussions.</li>
 </ol></td>
-<td>Following the interviewed, suggesting they take the initiative asking us to help, showing some interest in doing/making with them.</td>
-<td><p>Interviews can be conducted face to face or per (video-)call.</p>
-<p>Key-word is the gamification of the interview process. One of the game we could think of is the &quot;Chinese Portrait&quot; or the &quot;Anti-Protrait&quot; style. The informant are asked to describe themselves and their colleagues using metaphors and comparison (neutral categories: animals, plants, color, city, object, sport, sound, food; connoted words: quality/flaw, superpower, etc. ), and to explain why. </p>
-<p>Hint: Be creative in the question! </p>
-<p>The interview can be completed with anecdotal comments about their relationship  (how they met, best memories together, how they would describe that person to a third person, etc.) or their definition of the community (philosophy, organisation, etc).</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>RECORD</td>
-<td><p>If it is conducted in the form of voice chatting, it should be recorded.</p>
-<p>If the interview is in conducted in the written form, set up the <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2" class="anchor"></span></span>archive to store the data of the online exchange</p></td>
-<td>Priority is given to the quality of the interaction and the involvement of the researcher.<br />
-So a few key words on a small notebook or a smartphone but mainly a report written just after the interview.</td>
-<td>Recording could be done by traditional means (paper) or voice recording.</td>
+<td>If it is conducted in the form of voice chatting, it should be recorded. If the interview is in conducted in the written form, set up the <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2" class="anchor"></span></span>archive to store the data of the online exchange</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>TRANSCRIPT</td>
-<td><p>Recorded voice chat shall be transcripted and coded.</p>
-<p>When the interview is in the written form, an accurate transcript is immediately available with no loss or inaccuracy in transcription.</p></td>
-<td>No transcript: an abstract + a few approximate sentences + potential drawings (that we may ask the interviewed to do for us).</td>
-<td><p>The transcript could either be a full transcript of the interview, or a summary answering each specific question.</p>
-<p>Video-recording is time consuming and do not add much value to the process (i.e. better suited to emphasize emotive respond to sensitive questions)</p>
-<p>For quantitative, qualitative and mixed media data analysis, several research software could be considered: Altas.ti, MAXQDA, Nvivo.  The computer-assisted transcript and process of the data requires some coding while entering the data on the database.</p></td>
-</tr>
-<tr class="even">
-<td>PROCESS/ORGANIZE</td>
-<td>All information about each informant, including their profile information, answers to questions, emojis that they have used, is gathered and sorted.</td>
-<td><p>1.Show some interest in the makers’ activities (so that they see we want to get an insider viewpoint).</p>
-<p>2.Move to practicing <em>with</em> the maker.</p>
-<p>3.Present our understanding of the activity to the maker (through sentences, through a drawing or a graph…)</p></td>
-<td><p>All information about each informant and their coworkers are gathered and sorted. </p>
-<p>Data combines the self-perception of the informant and the outward perception.</p>
-<p>Answers are associated with a visual representation, using google or other free image resources.</p>
-<p>At this stage, the data can be organized in two: (1) the summarized description to be presented to the informant/public restitution; (2) the comprehensive network, mutual perception and self-identity within the community, with deeper analysis related to the research question.</p></td>
+<td>Recorded voice chat shall be transcripted and coded. When the interview is in the written form, an accurate transcript is immediately available with no loss or inaccuracy in transcription.</td>
 </tr>
 <tr class="odd">
-<td>RESULT / SHAPE / FORMAT / OUTCOME</td>
-<td>An archive which stores the images and texts and voices of the conversation for textual /content /discourse analysis, depending on the research questions</td>
-<td>If possible, worth visualisation with comments about how to read it.<br />
-If diverging, the comments will present different experiences of the moment of the researcher and the maker.</td>
-<td><p>(1) Individual or public restitution can be presented with a digital animation. Emphasis on visualization has more impact. A PPT could restitute the &quot;Chinese Portrait&quot; in pictures, with comments during the presentation. The result could underline the strong asset of the informant's personality, and weak point with a positive approach of improvement.</p>
-<p>(2) Aggregate of all the data collected and analysis focusing on the research question. Underlining pattern, recurring aspects and meaningful differences. Result can be both quantitative and qualitative.</p>
-<p>The creative interview integrates game, psychology and fun. Hopefully, the results offers both depth and poetry, because the interview relies more on spontaneous description than judgment or prepared pitches.</p></td>
+<td>PROCESS / ORGANIZE</td>
+<td>All information about each informant, including their profile information, answers to questions, emojis that they have used, is gathered and sorted.</td>
 </tr>
 <tr class="even">
+<td>RESULT / OUTCOME</td>
+<td>An archive which stores the images and texts and voices of the conversation for textual /content /discourse analysis, depending on the research questions</td>
+</tr>
+<tr class="odd">
 <td>ANALYSIS</td>
 <td>Textual /content /discourse analysis</td>
-<td>Gap between what the maker says and does, potential evolution of their viewpoint throughout the interview and potential gap between the researcher’s experience and the maker’s one.<br />
-<br />
-Connecting to other methods to see if this maker’s experience matches the other makers’ ones and can be generalised in some ways or not and why.</td>
-<td><p>Consider to level of analysis, (1) simple analysis of &quot;personal branding&quot; to reward the informant and the community ; (2) a deeper analysis for research purpose.</p>
-<p>Considering transformation:</p>
-<p>This tool is not very adapted to catch transformation, it is rather a snapshot. The perception insights could influence future communication within and about the community.</p></td>
-</tr>
-<tr class="odd">
-<td><strong>FUTURE CHANGES?</strong></td>
-<td></td>
-<td>When we get to know the makers better (after a few weeks?), why not bringing them things to repair with them so as to increase our level of involvement and “test” some reactions a little bit the experimental way?<br />
-<br />
-When we get to build common understanding with some makers we come to be close to and we tend to mutually socialise with (socialisation), why not taking some time to read together some scientific papers about makers and see what they think about it?<br />
-(to be read as such or to bring in the conversation more casually for harvesting their viewpoint about it).</td>
-<td></td>
 </tr>
 <tr class="even">
 <td>Pros and cons</td>
 <td><p>+Allow one-to-one, one-to-many, or many-to-many text-based conversations.</p>
 <p>+Depending on the platform you have chosen, it can be synchronous or asynchronous. it works better for people/situations when real-time exchange is impossible (because of language problem, time difference.)</p>
 <p>-Time consuming when compared to real-time conversation</p></td>
-<td></td>
+</tr>
+</tbody>
+</table>
+
+
+#### TOOL 2: CO-APPRENDICESHIP
+<table>
+<tbody>
+<tr class="odd">
+<td>PREPARE</td>
+<td>Thinking about what kind of dimensions we are the most interested in (spatial organisation, interaction with others, alternation between desk computer and other machine work etc.) so as to direct the look.<br />
+A little bit of info about makerspaces so as to avoid appearing ignorant or unprepared and so as to be ready to feed the conversation if necessary. Also, some questions are not easy to fit in the discussions or to start a conversation with and that would go smoother if we are equipped to launch the conversation.</td>
+</tr>
+<tr class="even">
+<td>CONDUCT</td>
+<td>Following the interviewed, suggesting they take the initiative asking us to help, showing some interest in doing/making with them.</td>
+</tr>
+<tr class="odd">
+<td>RECORD</td>
+<td>Priority is given to the quality of the interaction and the involvement of the researcher.<br />
+So a few key words on a small notebook or a smartphone but mainly a report written just after the interview.</td>
+</tr>
+<tr class="even">
+<td>TRANSCRIPT</td>
+<td>No transcript: an abstract + a few approximate sentences + potential drawings (that we may ask the interviewed to do for us).</td>
+</tr>
+<tr class="odd">
+<td>PROCESS / ORGANIZE</td>
+<td><p>1. Show some interest in the makers’ activities (so that they see we want to get an insider viewpoint).</p>
+<p>2. Move to practicing <em>with</em> the maker.</p>
+<p>3. Present our understanding of the activity to the maker (through sentences, through a drawing or a graph…)</p></td>
+</tr>
+<tr class="even">
+<td>RESULT / OUTCOME</td>
+<td>If possible, worth visualisation with comments about how to read it.<br />
+If diverging, the comments will present different experiences of the moment of the researcher and the maker.</td>
+</tr>
+<tr class="odd">
+<td>ANALYSIS</td>
+<td>Gap between what the maker says and does, potential evolution of their viewpoint throughout the interview and potential gap between the researcher’s experience and the maker’s one. Connecting to other methods to see if this maker’s experience matches the other makers’ ones and can be generalised in some ways or not and why.</td>
+</tr>
+<tr class="even">
+<td><strong>TAKE INTO CONSIDERATION FUTURE CHANGES?</strong></td>
+<td>When we get to know the makers better (after a few weeks?), why not bringing them things to repair with them so as to increase our level of involvement and “test” some reactions a little bit the experimental way?<br />
+<br />
+When we get to build common understanding with some makers we come to be close to and we tend to mutually socialise with (socialisation), why not taking some time to read together some scientific papers about makers and see what they think about it?<br />
+(to be read as such or to bring in the conversation more casually for harvesting their viewpoint about it).</td>
+</tr>
+</tbody>
+</table>
+
+See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLXSHVIclhEWGpXc1U/view)
+
+
+#### TOOL 3: MUTUAL PROFILE
+
+<table>
+<tbody>
+<tr class="even">
+<td>PREPARE</td>
+<td><p>Aim of this tool is to offer a win-win insight of a makerspaces community. Ideally, the whole community should be informed about and involved in the interview process, or at least as many person as possible. We could also consider including informant from outside the makerspaces (relatives, institution, clients, etc.) The participants know that by agreeing to be interviewed, they will receive in exchange a description of how they are perceived by their coworkers. The intention is to make the whole interview process fun, rewarding, and strengthening ties within the community.</p></td>
+</tr>
+<tr class="odd">
+<td>CONDUCT</td>
+<td><p>Interviews can be conducted face to face or per (video-)call.</p>
+<p>Key-word is the gamification of the interview process. One of the game we could think of is the &quot;Chinese Portrait&quot; or the &quot;Anti-Protrait&quot; style. The informant are asked to describe themselves and their colleagues using metaphors and comparison (neutral categories: animals, plants, color, city, object, sport, sound, food; connoted words: quality/flaw, superpower, etc. ), and to explain why. </p>
+<p>The interview can be completed with anecdotal comments about their relationship  (how they met, best memories together, how they would describe that person to a third person, etc.) or their definition of the community (philosophy, organisation, etc).</p></td>
+</tr>
+<tr class="even">
+<td>RECORD</td>
+<td>Recording could be done by traditional means (paper) or voice recording.</td>
+</tr>
+<tr class="odd">
+<td>TRANSCRIPT</td>
+<td><p>The transcript could either be a full transcript of the interview, or a summary answering each specific question. Video-recording is time consuming and do not add much value to the process (i.e. better suited to emphasize emotive respond to sensitive questions). For quantitative, qualitative and mixed media data analysis, several research software could be considered: Altas.ti, MAXQDA, Nvivo.  The computer-assisted transcript and process of the data requires some coding while entering the data on the database.</p></td>
+</tr>
+<tr class="even">
+<td>PROCESS / ORGANIZE</td>
+<td><p>All information about each informant and their coworkers are gathered and sorted. >Data combines the self-perception of the informant and the outward perception. Answers are associated with a visual representation, using google or other free image resources. At this stage, the data can be organized in two: (1) the summarized description to be presented to the informant/public restitution; (2) the comprehensive network, mutual perception and self-identity within the community, with deeper analysis related to the research question.</p></td>
+</tr>
+<tr class="odd">
+<td>RESULT / OUTCOME</td>
+<td><p>(1) Individual or public restitution can be presented with a digital animation. Emphasis on visualization has more impact. A PPT could restitute the &quot;Chinese Portrait&quot; in pictures, with comments during the presentation. The result could underline the strong asset of the informant's personality, and weak point with a positive approach of improvement.</p>
+<p>(2) Aggregate of all the data collected and analysis focusing on the research question. Underlining pattern, recurring aspects and meaningful differences. Result can be both quantitative and qualitative.</p>
+<p>The creative interview integrates game, psychology and fun. Hopefully, the results offers both depth and poetry, because the interview relies more on spontaneous description than judgment or prepared pitches.</p></td>
+</tr>
+<tr class="even">
+<td>ANALYSIS</td>
+<td><p>Consider to level of analysis, (1) simple analysis of &quot;personal branding&quot; to reward the informant and the community ; (2) a deeper analysis for research purpose. Considering transformation: this tool is not very adapted to catch transformation, it is rather a snapshot. The perception insights could influence future communication within and about the community.</p></td>
+</tr>
+<tr class="even">
+<td>Pros and cons</td>
 <td><p>+ reciprocity and contribution to the community and/or individual</p>
 <p>+ fun during the interview and the restitution</p>
 <p>+ a rich way to depict characteristics, enable free informal speech</p>
@@ -307,11 +332,23 @@ When we get to build common understanding with some makers we come to be close t
 </table>
 
 
-See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLXSHVIclhEWGpXc1U/view)
+## About this page
 
----
 
-#### Bibliography
+The content on this website has been produced during the 2-days workshop "How to Study Makerspaces". Feel free to reuse, copy/paste, fork, transform, upgrade and improve what you find here. You can also find more on the [shared folder](https://drive.google.com/drive/u/0/folders/0BxljeuE58FLXaE90ZEdWYmhYTWc) we used during the workshop to store all contents. You can also check the [program](https://drive.google.com/drive/folders/0BxljeuE58FLXaE90ZEdWYmhYTWc) and the [list of participants](https://docs.google.com/document/d/1dlhRdlmGQuOFfA7xZZ08ssz-jC6Kol8eaQ0jLBuZIXY/edit)
+
+Feel free to get in touch with us for any further information.
+
+
+<p>
+  All content on this page is available under the terms of the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License Attribution 4.0 International</a>.
+</p>
+<p>
+  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+</p>
+
+
+## Bibliography
 
 [^Florida2002]: Florida, R. (2002). The Rise of the Creative Class. Washington Monthly, (May), 15–25. http://doi.org/10.1111/j.1467-8691.2006.00398.x
 
