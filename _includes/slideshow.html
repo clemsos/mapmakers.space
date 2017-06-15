@@ -1,11 +1,11 @@
-<div class="slideshow-content slideshow-display-container">
+<div id="slideshow-{{include.id}}" class="slideshow-display-container">
 
   {% for img in include.images %}
   <img class="mySlides" src="{{img}}" style="width:100%">
   {% endfor %}
 
-  <button class="slideshow-button slideshow-black slideshow-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="slideshow-button slideshow-black slideshow-display-right" onclick="plusDivs(1)">&#10095;</button>
+  <button class="slideshow-button slideshow-black slideshow-display-left" onclick="plusDivs_{{include.id}}(-1)">&#10094;</button>
+  <button class="slideshow-button slideshow-black slideshow-display-right" onclick="plusDivs_{{include.id}}(1)">&#10095;</button>
 </div>
 
 
@@ -41,21 +41,31 @@
 
 
 <script>
-var slideIndex = 1;
-showDivs(slideIndex);
 
-function plusDivs(n) {
-  showDivs(slideIndex += n);
+var slideIndex_{{include.id}} = 1;
+showDivs_{{include.id}}(slideIndex_{{include.id}});
+
+function plusDivs_{{include.id}}(n) {
+  showDivs_{{include.id}}(slideIndex_{{include.id}} += n);
 }
 
-function showDivs(n) {
+function showDivs_{{include.id}}(n) {
   var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length}
+
+  var slideshow = document.getElementById("slideshow-{{include.id}}")
+  var x = slideshow.getElementsByClassName("mySlides");
+
+
+  if (n > x.length) {
+    slideIndex_{{include.id}} = 1
+  }
+  if (n < 1) {
+    slideIndex_{{include.id}} = x.length
+  }
   for (i = 0; i < x.length; i++) {
      x[i].style.display = "none";
   }
-  x[slideIndex-1].style.display = "block";
+  x[slideIndex_{{include.id}}-1].style.display = "block";
+
 }
 </script>

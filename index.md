@@ -19,6 +19,12 @@ images_anais:
   - ./uploads/sketchbook-anais/out7-000-9.jpg
   - ./uploads/sketchbook-anais/out7-000-10.jpg
 
+images_game:
+  - ./uploads/workshop/game_map.jpg
+  - ./uploads/workshop/game_places.jpg
+  - ./uploads/workshop/game_pieces_hands.jpg
+  - ./uploads/workshop/game_board.jpg
+
 ---
 
 
@@ -58,7 +64,7 @@ drawings : Vivien Roussel (cc)</small>
 
 We experimented with new ways to observe, record and map activities, changes, discourses and stakes that surround the space. We tested together methods that can be reused to draw portraits of similar places in different contexts.
 
-{% include slideshow.html images=page.images_anais %}
+{% include slideshow.html images=page.images_anais  id='anais' %}
 <small>The 2 days were a complex process of common discussion, reflection and action -- notes by Anaïs Bloch (cc)</small>
 
 
@@ -74,7 +80,7 @@ The workshop started on May 17th evening by a short presentation of the project 
 | 9am  | Start / Introduction | | 9am  | Group feedbacks |
 | 10:30am  | Interview with Vanessa Lorenzo Toquero (Hackuarium) | | 10am  | Interview with Christophe Rouiller (Univercite / Mass Challenge) |
 | Afternoon  | Space exploration in groups | | Afternoon  | Production and templating |
-| 4pm  | Interview with  (Renens' Mayor Office, Cultural Affairs)  | | 5pm  | Public restitution  |
+| 4pm  | Interview with Michelle Dedelley (Renens' Mayor Office, Cultural Affairs)  | | 5pm  | Public restitution  |
 | 5:30pm |Final discussion || 7pm  | Debrief & afterwork !  |
 
 
@@ -83,6 +89,8 @@ The workshop started on May 17th evening by a short presentation of the project 
 
 
 We wanted to lead experiment with different methods to study makerspaces. We came with open questions and a list of topics we wanted to approach during the workshop. Most were practical questions regarding fieldwork.
+
+![](./uploads/workshop/monique/groupAA_style.JPG)
 
 #### What can researcher make?
 
@@ -100,6 +108,7 @@ We wanted to lead experiment with different methods to study makerspaces. We cam
 - Plan the communication of the research with local communities?
 - etc.
 
+![](./uploads/workshop/monique/group_at_work2.JPG)
 
 #### Three main thematics
 
@@ -141,6 +150,8 @@ The inquiry is conducted using an experimental board game that serves as basis t
 
 ![Workshop pic](./uploads/workshop/boardgame.jpg)
 
+{% include slideshow.html images=page.images_game id='game' %}
+
 See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLXMENyV0x2LVlwaHc/view) containing further explanation about the game.
 
 
@@ -157,7 +168,7 @@ See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLX
 
 ![NetworkMapping](./uploads/workshop/Hackuarium_WIKI_Network_extracts 15-08-23.png)
 
-**Organize data** in two separate parts : information dedicated to insiders of the space (users, members, etc.), adn to outsiders (visitors, event participants, etc). This is useful to understand the contrast between both, and a difference in discourse and approaches.
+**Organize data** in two separate parts : information dedicated to insiders of the space (users, members, etc.), and to outsiders (visitors, event participants, etc). This is useful to understand the contrast between both, and a difference in discourse and approaches.
 
 ![NetworkMapping](./uploads/workshop/Network Interview Contextual Data.png)
 
@@ -232,7 +243,7 @@ A toolbox for conducting interviews in unusual ways. The three models have been 
 </table>
 
 
-#### TOOL 2: CO-APPRENDICESHIP
+#### TOOL 2: CO-APPRENTICESHIP
 <table>
 <tbody>
 <tr class="odd">
@@ -332,6 +343,14 @@ See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLX
 </table>
 
 
+## Credits
+
+A special thanks goes to all the participants for their energy and ideas: Grégory Bahde, Anaïs Bloch, Marylaure Bloch, Siyu Chen, Matei Gheorghiu, Luis Gomez, Nur Hamdan, Nicola Nova, Richard Marion, Emanuele Protti, Vivien Roussel, Gabriela Sanchez, Peter Troxler, Monique Bolli, Clément Renaud, Marc Laperrouza and Florence Graezer Bideau.
+
+We would also like to thank [Univercite](http://univercite.ch) for hosting us and Christophe Rouillet for all his help regarding the organization, Michelle Dedelley and Vanessa Lorenzo Toquero for joining us for the session of questions and the members of [Hackuarium](wiki.hackuarium.ch/w/Main_Page) for welcoming us the day of their general assembly.
+
+---
+
 ## About this page
 
 
@@ -347,6 +366,8 @@ Feel free to get in touch with us for any further information.
   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 </p>
 
+
+---
 
 ## Bibliography
 
