@@ -1,3 +1,4 @@
 ---
+layout: null
 ---
 Coming soon...
