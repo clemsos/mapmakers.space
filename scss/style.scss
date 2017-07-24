@@ -14,7 +14,7 @@ $bg-color : white;
 
 $menu-logo-color : #000;
 $menu-link-color : #777;
-$menu-bg-color : none;
+$menu-bg-color : rgba(255,255,255,0.8);
 
 @import "includes/navbar";
 @import "includes/footer";
@@ -52,7 +52,7 @@ h2 {
 }
 
 #main {
-  padding-top: 2em
+  padding-top: 4em
 }
 
 .page-title {

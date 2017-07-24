@@ -1,7 +1,9 @@
 ---
-layout: page
-title: home
+layout: main
+title: Mapping Making
+subtitle: Understanding the spaces of making through maps, networks and visualizations
+thumbnail: /uploads/xcj.JPG
 ---
 
 
-hello world !
+{% include workshops-list.html %}

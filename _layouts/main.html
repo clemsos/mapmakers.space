@@ -4,14 +4,32 @@
 {% include head.html %}
 
 <body>
-  {% include header.html %}
 
-  <div class="container">
+  {% include header.html %}
+  {% include navbar.html %}
+
+  <div class="container" id="main" role="main">
     <div class="row">
       {{ content }}
     </div>
   </div>
 
-  {% include footer.html %}
+  <!-- {% include footer.html %} -->
+  <script src="/js/d3.js" charset="utf-8"></script>
+  <script type="text/javascript">
+
+    // toggle menu
+    d3.select(".toggle-nav").on('click', () => {
+      let menu = d3.select(".menu ul");
+      menu.classed('active', d => !menu.classed('active'))
+    })
+
+    // window.onscroll = function() {
+    //     var sticky = document.getElementById('sticky');
+    //     if( document.body.scrollTop+document.documentElement.scrollTop > 240)
+    //         sticky.classList.toggle("stuck");
+    //     else sticky.classList.toggle("stuck");
+    // };
+  </script>
 </body>
 </html>

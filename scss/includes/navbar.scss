@@ -12,9 +12,19 @@
   line-height: 6.5rem;
   text-align: center;
 
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+
+  z-index: 9000;
+
   .home-link {
     float :left;
     color : $menu-logo-color;
+  }
+
+  .faq-link {
+    float :right;
   }
 
   ul {
@@ -63,8 +73,8 @@ a.navbar-link {
       padding-top: 1em;
     }
 
-  }
 
+  }
   .menu ul {
     z-index: 1000;
      width:100%;

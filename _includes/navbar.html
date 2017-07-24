@@ -1,20 +1,14 @@
-<nav class="menu container">
+<nav id="sticky" class="menu container">
 
   <a class="toggle-nav" href="#">&#9776;</a>
   <a href="/home" class="navbar-link home-link" href="/home">Map Makers</a>
 
   <ul class="active">
+    {% for title in page.nav %}
     <li class="navbar-item">
-      <a class="navbar-link" href="/concepts">Concepts</a>
+      <a class="navbar-link" href="#{{title | slugify }}">{{title}}</a>
     </li>
-    <li class="navbar-item">
-      <a class="navbar-link" href="/methods">Methods</a>
-    </li>
-    <li class="navbar-item">
-      <a class="navbar-link" href="/workshops">Workshops</a>
-    </li>
-    <li class="navbar-item">
-      <a class="navbar-link" href="/faq">FAQ</a>
-    </li>
+    {% endfor %}
   </ul>
+  <a class="navbar-link faq-link" href="/faq">FAQ</a>
 </nav>

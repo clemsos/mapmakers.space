@@ -3,8 +3,13 @@ layout : main
 title: "Workshop : how to study makerspaces ?"
 subtitle: "A 2-days immersive workshop to share, prototype and experiment with new approaches to study urban spaces of creativity."
 date: 18<sub>th</sub> and 19<sub>th</sub> May, 2017
-place: Renens, Switzerland
-thumbnail: "/uploads/xcj.JPG"
+place: "Renens, Switzerland"
+thumbnail: /uploads/workshop/ateliers-renens.JPG
+
+nav:
+- "The Workshop"
+- "Prototyping methods"
+- "The Results"
 
 images_anais:
   - /uploads/sketchbook-anais/out7-000-0.jpg
@@ -85,10 +90,9 @@ The workshop started on May 17th evening by a short presentation of the project 
 
 
 
-## The Challenge : prototyping methods
+## Prototyping methods
 
-
-We wanted to lead experiment with different methods to study makerspaces. We came with open questions and a list of topics we wanted to approach during the workshop. Most were practical questions regarding fieldwork.
+The challenge offered to the participants was to conceive methods that could be used on the field. We wanted to lead experiment with different methods to study makerspaces. We came with open questions and a list of topics we wanted to approach during the workshop. Most were practical questions regarding fieldwork.
 
 ![](/uploads/workshop/monique/groupAA_style.JPG)
 
