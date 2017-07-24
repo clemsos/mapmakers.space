@@ -4,7 +4,7 @@ title: "Workshop : how to study makerspaces ?"
 subtitle: "A 2-days immersive workshop to share, prototype and experiment with new approaches to study urban spaces of creativity."
 date: 18<sub>th</sub> and 19<sub>th</sub> May, 2017
 place: Renens, Switzerland
-thumbnail: "./uploads/xcj.JPG"
+thumbnail: "/uploads/xcj.JPG"
 ---
 
 
@@ -26,7 +26,7 @@ What are they? How can these makerspaces be defined? While they first exist as l
 
 Moreover, the passive position of the observer seems to oppose to the active stance of the maker, resulting in possible conflicts in the understanding of makerspaces. What can researchers *make*? How can makers lead a research about their spaces? How can the collection, record, mapping and visualization of information become the product of a common study? What should the study of making look like?
 
-![Workshop pic](./uploads/fol1.jpg)
+![Workshop pic](/uploads/fol1.jpg)
 <small>credits: Fabrique d'Objets Libres (cc)</small>
 
 #### Prototyping and hybrid methods
@@ -60,7 +60,7 @@ The workshop will start on the 18<sup>th</sup> at 9am and end on the 19<sup>th</
 
 It will take place in the old printing factory of Renens that host the [UniverCité](https://univercite.ch) makerspace, the [Hackuarium](http://wiki.hackuarium.ch/w/Main_Page) bio hacklab, the [FIXME](https://fixme.ch/) hackerspace - and [La Nébuleuse](http://www.lanebuleuse.ch/) brewery !
 
-![](./uploads/map.png)
+![](/uploads/map.png)
 Address : Les Ateliers de Renens, 5 Chemin du Closel, Renens, Switzerland ([Google Map](https://goo.gl/maps/9mirsdcJuY12))
 
 ---

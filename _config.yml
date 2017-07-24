@@ -1,4 +1,14 @@
+markdown: kramdown
+permalink: /:year/:month/:title/
+future: true
+
 title : "Makerspace research FNS"
 
 contact: clement.renaud@epfl.ch
-markdown: kramdown
+
+# build settings
+encoding: utf-8
+exclude: [README.md, LICENSE, CNAME]
+
+sass:
+  sass_dir: scss

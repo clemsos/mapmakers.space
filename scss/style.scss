@@ -1,0 +1,83 @@
+---
+---
+// content of your main.scss
+/*
+CSS http://clementrenaud.com
+par Clément Renaud
+hi@clementrenaud.com
+*/
+
+@charset "utf-8";
+
+// colors
+$bg-color : white;
+
+$menu-logo-color : #000;
+$menu-link-color : #777;
+$menu-bg-color : none;
+
+@import "includes/navbar";
+@import "includes/footer";
+// @import "includes/typo";
+
+
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+  color : #555
+}
+
+hr {
+  margin: 5em auto;
+  width: 50%;
+}
+
+body {
+  font-size: 13pt
+}
+img {
+  max-width: 100%
+}
+
+blockquote {
+  padding-left: 1em;
+  font-size: 1.5em;
+  margin: 3em 0;
+}
+
+h2 {
+  margin-top: 2em
+}
+
+#main {
+  padding-top: 2em
+}
+
+.page-title {
+  text-align: center
+}
+
+.intro {
+  font-size: 1.2em
+}
+.push-right {
+  color: white
+}
+
+table p {
+    margin-bottom: .1rem
+}
+table li {
+    margin-bottom: .1rem
+}
+
+.contact {
+  text-align: center;
+  font-size: 1.2em;
+  padding: 3em auto
+}
+
+.footnotes ol p {
+  font-size: .9em;
+  display:inline;
+}
