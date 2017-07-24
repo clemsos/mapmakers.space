@@ -4,26 +4,26 @@ title: "Workshop : how to study makerspaces ?"
 subtitle: "A 2-days immersive workshop to share, prototype and experiment with new approaches to study urban spaces of creativity."
 date: 18<sub>th</sub> and 19<sub>th</sub> May, 2017
 place: Renens, Switzerland
-thumbnail: "./uploads/xcj.JPG"
+thumbnail: "/uploads/xcj.JPG"
 
 images_anais:
-  - ./uploads/sketchbook-anais/out7-000-0.jpg
-  - ./uploads/sketchbook-anais/out7-000-1.jpg
-  - ./uploads/sketchbook-anais/out7-000-2.jpg
-  - ./uploads/sketchbook-anais/out7-000-3.jpg
-  - ./uploads/sketchbook-anais/out7-000-4.jpg
-  - ./uploads/sketchbook-anais/out7-000-5.jpg
-  - ./uploads/sketchbook-anais/out7-000-6.jpg
-  - ./uploads/sketchbook-anais/out7-000-7.jpg
-  - ./uploads/sketchbook-anais/out7-000-8.jpg
-  - ./uploads/sketchbook-anais/out7-000-9.jpg
-  - ./uploads/sketchbook-anais/out7-000-10.jpg
+  - /uploads/sketchbook-anais/out7-000-0.jpg
+  - /uploads/sketchbook-anais/out7-000-1.jpg
+  - /uploads/sketchbook-anais/out7-000-2.jpg
+  - /uploads/sketchbook-anais/out7-000-3.jpg
+  - /uploads/sketchbook-anais/out7-000-4.jpg
+  - /uploads/sketchbook-anais/out7-000-5.jpg
+  - /uploads/sketchbook-anais/out7-000-6.jpg
+  - /uploads/sketchbook-anais/out7-000-7.jpg
+  - /uploads/sketchbook-anais/out7-000-8.jpg
+  - /uploads/sketchbook-anais/out7-000-9.jpg
+  - /uploads/sketchbook-anais/out7-000-10.jpg
 
 images_game:
-  - ./uploads/workshop/game_map.jpg
-  - ./uploads/workshop/game_places.jpg
-  - ./uploads/workshop/game_pieces_hands.jpg
-  - ./uploads/workshop/game_board.jpg
+  - /uploads/workshop/game_map.jpg
+  - /uploads/workshop/game_places.jpg
+  - /uploads/workshop/game_pieces_hands.jpg
+  - /uploads/workshop/game_board.jpg
 
 ---
 
@@ -50,14 +50,14 @@ Moreover, the passive position of the observer seems to oppose to the active sta
 
 The workshop **"How to study makerspaces?"** took place on the **18<sup>th</sup> and 19<sup>th</sup> May, 2017** in Renens, Switzerland. During two days, we were hosted at **Les Ateliers de Renens**, an old printing factory repurposed into a creative cluster hosting a makerspace, a fablab, a bio-hacklab, a coworking space and many other initiatives.  
 
-![Workshop pic](./uploads/workshop/ateliers-renens.JPG)
+![Workshop pic](/uploads/workshop/ateliers-renens.JPG)
 <small>Les Ateliers de Renens regroups a makerspaces, a hackerspace, a coworking space, a restaurant, and much more -- photo : Nicolas Nova (cc)</small>
 
 
 It brought together 15 makers and practitioners from different background and disciplines to design new methods, processes, protocols or tools that can support the study of makerspaces. Architects, designers, sociologists, makers, and much more exchanged and discussed about their different practices of research. There weren’t any formal presentations. We divided our time in short work sessions of discussions, field exploration, on-hands prototyping or online/offline experiments. At the end of the workshop, the results were presented during a small public event of restitution.
 
 
-![Dessins Portraits Vivien](./uploads/workshop/Portraits-VivienRoussel.jpg)
+![Dessins Portraits Vivien](/uploads/workshop/Portraits-VivienRoussel.jpg)
 <small> 15 participants and several interviewees took part in this workshop --
 drawings : Vivien Roussel (cc)</small>
 
@@ -72,7 +72,7 @@ We experimented with new ways to observe, record and map activities, changes, di
 
 The workshop started on May 17th evening by a short presentation of the project at the biohack lab [Hackuarium](http://wiki.hackuarium.ch/w/Main_Page).
 
-<embed src="./uploads/Workshop - How to Study Makerspaces - Introduction.pdf" width="960" height="600" type='application/pdf'>
+<embed src="/uploads/Workshop - How to Study Makerspaces - Introduction.pdf" width="960" height="600" type='application/pdf'>
 
 
 | **May 18th**  |  | | **May 19th**  |  |
@@ -90,7 +90,7 @@ The workshop started on May 17th evening by a short presentation of the project 
 
 We wanted to lead experiment with different methods to study makerspaces. We came with open questions and a list of topics we wanted to approach during the workshop. Most were practical questions regarding fieldwork.
 
-![](./uploads/workshop/monique/groupAA_style.JPG)
+![](/uploads/workshop/monique/groupAA_style.JPG)
 
 #### What can researcher make?
 
@@ -108,7 +108,7 @@ We wanted to lead experiment with different methods to study makerspaces. We cam
 - Plan the communication of the research with local communities?
 - etc.
 
-![](./uploads/workshop/monique/group_at_work2.JPG)
+![](/uploads/workshop/monique/group_at_work2.JPG)
 
 #### Three main thematics
 
@@ -121,7 +121,7 @@ Finally we decided to divide the group according to three main thematics to orga
 * Comparative Study / Multiple spaces
 
 
-![Workshop pic](./uploads/workshop/people.jpg)
+![Workshop pic](/uploads/workshop/people.jpg)
 <small> 3 groups of researcher working together during the 2 days -- credits : Marc Laperrouza (cc)</small>
 
 
@@ -148,7 +148,7 @@ To organize the reflection about methods, a basic template was defined to reflec
 
 The inquiry is conducted using an experimental board game that serves as basis to observe interactions between actors in a space. Players select a role from a serie of archetypal portraits. The board itself is a map of the place. Using portraits and exchange powers and information about the space.
 
-![Workshop pic](./uploads/workshop/boardgame.jpg)
+![Workshop pic](/uploads/workshop/boardgame.jpg)
 
 {% include slideshow.html images=page.images_game id='game' %}
 
@@ -161,21 +161,21 @@ See the [video of the restitution](https://drive.google.com/file/d/0BxljeuE58FLX
 
 **Observation of signages** during the visits of the space (offline), notice important signages. they are an interesting part for later discussions about how info is communicated and displayed to outsiders and users of the space. Also locks, trashes... (see [pics](https://drive.google.com/drive/folders/0BxljeuE58FLXeXh4NnM5OGg2RnM))
 
-![NetworkMapping](./uploads/workshop/NetworkMapping-1.png)
-![NetworkMapping](./uploads/workshop/NetworkMapping-2.png)
+![NetworkMapping](/uploads/workshop/NetworkMapping-1.png)
+![NetworkMapping](/uploads/workshop/NetworkMapping-2.png)
 
 **Analysis of online sources** : data analysis of website and wiki sources, to define keywords, contributors and interesting logos/partners. Here, we extracted data, and processed words co-occurences. Visualisations were made with [topogram.io](http://topogram.io)
 
-![NetworkMapping](./uploads/workshop/Hackuarium_WIKI_Network_extracts 15-08-23.png)
+![NetworkMapping](/uploads/workshop/Hackuarium_WIKI_Network_extracts 15-08-23.png)
 
 **Organize data** in two separate parts : information dedicated to insiders of the space (users, members, etc.), and to outsiders (visitors, event participants, etc). This is useful to understand the contrast between both, and a difference in discourse and approaches.
 
-![NetworkMapping](./uploads/workshop/Network Interview Contextual Data.png)
+![NetworkMapping](/uploads/workshop/Network Interview Contextual Data.png)
 
 **Conduct interviews** Based on the data,  you can write a set of questions to ask an interviewee tod describe its networks. We use drawing to support the discussion : "draw me your network", then ask a set of questions extracted from the data seen in the space or online.
 
-![Net Mapping map](./uploads/workshop/map-1.png)
-![Net Mapping Resulst](./uploads/workshop/net_mapping-results.jpg)
+![Net Mapping map](/uploads/workshop/map-1.png)
+![Net Mapping Resulst](/uploads/workshop/net_mapping-results.jpg)
 
 
 Read the [HOWTO](https://docs.google.com/document/d/1KjlTmIgqNviWBwbdFGbuneJ_paEUhfXr5Oel2DGMBCM/edit#heading=h.xqnk75lvahih) or watch the [video fo the restitution](https://drive.google.com/file/d/0BxljeuE58FLXZVNBenV3bU5FUUU/view) for more info.
@@ -187,7 +187,7 @@ Read the [HOWTO](https://docs.google.com/document/d/1KjlTmIgqNviWBwbdFGbuneJ_paE
 
 A toolbox for conducting interviews in unusual ways. The three models have been imagined and tested during the workshop.
 
-![ITW group](./uploads/workshop/itw_group.jpg)
+![ITW group](/uploads/workshop/itw_group.jpg)
 
 #### TOOL 1 : INTERACTIVE INTERFACE
 

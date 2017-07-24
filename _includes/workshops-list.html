@@ -1,0 +1,22 @@
+{% for post in site.posts %}
+
+  <ul id="workshops" class="row" >
+    <li class="workshop-item four columns card ">
+      <img src="{{post.thumbnail}}" alt="thumbnail">
+
+      <div class="card-content">
+        <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+        <div class="card-footer">
+          <p>{{ post.date | date: '%B %d, %Y'}}</p>
+          <p>{{ post.place }}</p>
+        </div>
+      </div>
+
+
+    </li>
+
+  </ul>
+
+
+
+{% endfor %}
