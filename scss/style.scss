@@ -20,12 +20,12 @@ $menu-bg-color : rgba(255,255,255,0.8);
 @import "includes/footer";
 @import "includes/workshop-list.scss";
 @import "includes/header";
+@import "includes/home";
 // @import "includes/typo";
 
 
 
 h1, h2, h3, h4, h5 {
-  font-weight: bold;
   color : #555
 }
 

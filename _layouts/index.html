@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+  <div class="container" id="home" role="main">
+    <div class="row">
+      {{ content }}
+    </div>
+
+  </div>
+
+  <script src="/js/d3.js" charset="utf-8"></script>
+  <!-- <script type="text/javascript">
+    let w = 960, h = 600;
+
+    var proj = d3.geoMercator()
+        .center([105, 38])
+        .scale(750)
+        .translate([w/2, h/2]);
+    var path = d3.geoPath().projection(proj);
+
+    var svg = d3.select("#china-map").append("svg")
+      .attr("width", w)
+      .attr("height", h);
+
+    d3.json("/data/china.json", (err, china) => {
+      if(err) throw err
+      console.log(china);
+      svg.append("g")
+        .attr("class", "china")
+        .selectAll("path")
+          .data(china.features)
+        .enter()
+        .append("path")
+        .attr("d", path)
+    })
+  </script> -->
+  {% include footer.html %}
+</body>

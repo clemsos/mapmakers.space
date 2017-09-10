@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "Making the city : re-assembling spaces of manufacturing"
+title: "Paper CHI17: Making the city, re-assembling spaces of manufacturing"
 subtitle: "A position paper submitted to CHI17 Open Manufacturing workshop"
 thumbnail: /uploads/CHI17.jpg
 place: "CHI17 - Open Manufacturing workshop"
