@@ -10,7 +10,7 @@ layout: index
 ---
 
 > “The Metropolis strives to reach a mythical point where the world is completely fabricated by man, so that it absolutely coincides with his desires.”
-> <small>― Rem Koolhaas[^Koolhas2000]</small>
+> <br> <small>― Rem Koolhaas, 2000</small>
 
 ---
 
