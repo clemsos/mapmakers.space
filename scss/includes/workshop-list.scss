@@ -1,7 +1,11 @@
 #workshops {
+  display: flex;
+  flex-flow: row wrap;
 
   li {
     list-style: none;
+    max-width: 42%;
+    margin: 3%;
   }
 }
 
@@ -9,6 +13,24 @@
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
+
+  border-radius: 5px; /* 5px rounded corners */
+
+  &:hover {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    transition: 0.3s;
+  }
+
+  height: 100%;
+  a {
+    text-decoration: none
+  }
+
+  .card-image {
+    border-radius: 5px; /* 5px rounded corners */
+    overflow: hidden;
+    max-height: 250px;
+  }
 
   .card-content {
     padding : .2em .5em;

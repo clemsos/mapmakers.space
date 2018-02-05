@@ -1,7 +1,7 @@
 ---
 layout: main
-title: "Workshop : Mapping spaces for making in Shenzhen and China"
-subtitle: A 10-days workshop to map, visualize and publish a zine about making in China
+title: "Workshop : Mapping spaces for making"
+subtitle: A 10-days workshop in Shenzhen and China to map, visualize and publish a zine about making
 thumbnail: /uploads/1280px-Makerspace_SLUB.jpg
 
 ---
