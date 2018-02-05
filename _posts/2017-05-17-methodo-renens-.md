@@ -1,7 +1,7 @@
 ---
 layout : main
 title: "Workshop : how to study makerspaces ?"
-subtitle: "Wrap-up of the 2-days methodology workshop at the Atelier de Renens."
+subtitle: "Wrap-up of the methodology workshop at the Atelier de Renens."
 place: "Renens, Switzerland"
 thumbnail: /uploads/workshop/ateliers-renens.JPG
 
