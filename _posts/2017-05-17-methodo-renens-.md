@@ -1,7 +1,7 @@
 ---
 layout : main
 title: "Workshop : how to study makerspaces ?"
-subtitle: "A 2-days immersive workshop to share, prototype and experiment with new approaches to study urban spaces of creativity."
+subtitle: "Wrap-up of the 2-days methodology workshop at the Atelier de Renens."
 place: "Renens, Switzerland"
 thumbnail: /uploads/workshop/ateliers-renens.JPG
 
