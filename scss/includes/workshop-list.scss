@@ -6,6 +6,10 @@
     list-style: none;
     max-width: 42%;
     margin: 3%;
+
+    @media screen and (max-device-width: 40rem) {
+      max-width: 100%;
+    }
   }
 }
 
