@@ -1,3 +1,11 @@
+.homepic {
+  overflow: hidden;
+  height: 450px;
+  img {
+    width: 100vw;
+  }
+}
+
 #home {
 
   margin-top: 3em;
@@ -7,7 +15,5 @@
   h1, h3 {
     font-weight: normal;
   }
-
-  
 
 }

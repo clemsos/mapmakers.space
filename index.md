@@ -5,7 +5,7 @@ layout: index
 # Mapping urban spaces for making
 ##### Shanghai, Chengdu, HK/Shenzhen
 
-![](/uploads/osmnx-1E2E70B201w960h960.jpeg)
+A research project by the Institute for Area and Global Studies at EPFL
 
 ---
 
@@ -13,5 +13,7 @@ layout: index
 > <br> <small>― Rem Koolhaas, 2000</small>
 
 ---
+
+### Updates & News
 
 {% include workshops-list.html %}
