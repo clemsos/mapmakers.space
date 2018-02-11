@@ -11,7 +11,7 @@ thumbnail: /uploads/1280px-Makerspace_SLUB.jpg
 **Workshops in Shenzhen & Shanghai, February 28th - March 10th 2018**
 
 
-We are hosting a workshop called *MAPPING SPACES FOR MAKING* in China from February 28th to March 10th 2018. The first part will take part in Shanghai from Feb 28th to Mar 2nd with a public restitution on March 3rd. The second part will be hosted in Shenzhen on Mar 6th to 9th with a final event on March 10.
+We are hosting a workshop called *MAPPING SPACES FOR MAKING* in China from February 28th to March 10th 2018. The first part will take place in Shanghai from Feb 28th to Mar 2nd with a public restitution on March 3rd. The second part will be hosted in Shenzhen on Mar 6th to 9th with a final event on March 10.
 
 ![](/uploads/1280px-Makerspace_SLUB.jpg)
 
