@@ -20,14 +20,8 @@ During the last ten years, the cities of Shanghai and Shenzhen have been the pla
 Mapping Spaces for Making wants to re-collect how these ongoing transformations have been unfolding. During 5 days, ethnographers, makers, policy-makers, media archeologists, designers, architects, geographers and artists will use their knowledge and tools to map out the story of making in these two cities. Each workshop will end with the production of series of maps and documents that will be presented during a final event of restitution.
 
 
-<table>
-<tr>
-<td markdown="1">
 ### What we do
-</td>
-</tr>
-<tr>
-<td markdown="1">
+
 
 ##### RECORD CHANGES
 
@@ -45,22 +39,14 @@ We use different approaches to map, visualize and organize our observations and 
 
 We share the outcomes of our analysis with the hope of generating new objects, discourses, narratives, discussions, feedbacks and possibly improvements.
 
-</td>
-<td markdown="1">
 
 ![](/uploads/Tojin-yashiki.jpg)
-</td>
-</tr>
-</table>
 
 
 ### the Program
 3-5 days of experimental fieldwork in each city   
 1 public event of restitution
 
-<table>
-<tr>
-<td markdown="1">
 
 #####  Fieldwork (Tue-Fri)
 Project presentation & icebreakers  
@@ -71,17 +57,10 @@ Project presentation & icebreakers
 Engage with precedent researches  
 Daily group discussions  
 
-</td>
-<td markdown="1">
 
 ##### Public event (Sat)
 Public restitution of the workshop results and contributions from participants  
 Reception / drinks
-
-</td>
-</tr>
-</table>
-
 
 ##### Participants
 We welcome local and international, junior and seasoned makers, researchers, designers, artists, from different backgrounds or institutions. EPFL, New York University, Taipei University, HEAD Genève, Polytechnic of Torino, Shenzhen University, etc.
