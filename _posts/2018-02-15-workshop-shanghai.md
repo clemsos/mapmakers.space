@@ -32,7 +32,7 @@ Join us for a collaborative writing session where we will create a booklet conta
 **Why you should come?**
 - Share your insights, feedbacks and experiences about making in China
 - Learn more about mapping and visualization
-- Take part in the creation of a unique book
+- Take part in the creation of a handmade booklet 
 - Discover new perspectives about making in China
 - Meet new people
 
