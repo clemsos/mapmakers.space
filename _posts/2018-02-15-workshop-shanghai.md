@@ -54,7 +54,7 @@ Anaïs Bloch is a designer and ethnographer, working both as scientific research
 
 [Project link](https://www.hesge.ch/head/en/project/mobile-repair-cultures-informal-repair-silent-innovation-smartphone-case)
 
-#### Post-Manufacturing Architecture by Emanuele Proti (Torino, Switzerland)
+#### Post-Manufacturing Architecture by Emanuele Protti (Torino, Switzerland)
 
 ![](https://c.pxhere.com/photos/78/12/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg!d)
 
@@ -62,7 +62,7 @@ photo: *pxhere* - CCO
 
 ![](/uploads/workshop-shanghai/headshots/emanuele.png)
 
-Emanuele Proti, architect and phD researcher at Future Urban Legacy Lab in Polytechnico de Torino in Italy. His research is focused on spatial transformation of industrial architecture due to the formation of new urban economies, defining practice which reformulates relationship between production and the contemporary city. The phenomenon of urban manufacturing is analyzed in its architectural characters and in the social relationships these places convey. After studying in Barcelona and Sao Paulo he collaborates with different professional realities. In 2016 he won in collaboration with PlaC studio the international competition for the redevelopment of the industrial sector Pasubio in Parma.
+Emanuele Proti, architect and phD researcher at Future Urban Legacy Lab in Politecnico de Torino in Italy. His research is focused on spatial transformation of industrial architecture due to the formation of new urban economies, defining practice which reformulates relationship between production and the contemporary city. The phenomenon of urban manufacturing is analyzed in its architectural characters and in the social relationships these places convey. After studying in Barcelona and Sao Paulo he collaborates with different professional realities. In 2016 he won in collaboration with PlaC studio the international competition for the redevelopment of the industrial sector Pasubio in Parma.
 
 
 **The day will end with drinks and snacks.**
