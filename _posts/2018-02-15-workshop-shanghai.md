@@ -44,7 +44,7 @@ We will give a presentation of the results, followed by two talks:
 
 #### Mobile Repair Culture by Anaïs Bloch (HEAD Geneva, Switzerland)
 
-![](https://www.hesge.ch/head/sites/default/files/styles/projets/public/projet/media/figure3.jpg?itok=gmEUDbBk)
+![](/uploads/workshop-shanghai/head-mobilerepair.jpg)
 
 *Front of a mobile phone repair shop (Los Angeles)*. © HEAD – Genève
 
@@ -56,7 +56,7 @@ Anaïs Bloch is a designer and ethnographer, working both as scientific research
 
 #### Post-Manufacturing Architecture by Emanuele Protti (Torino, Switzerland)
 
-![](https://c.pxhere.com/photos/78/12/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg!d)
+![](/uploads/workshop-shanghai/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg)
 
 photo: *pxhere* - CCO
 
