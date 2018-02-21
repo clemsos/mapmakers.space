@@ -43,7 +43,7 @@ Emanuele Protti 是一个建筑师和博士研究院在都灵理工大学的Futu
 
 ![](/uploads/workshop-shanghai/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg)
 
-讲座后，为了让大家交流分享，会为大家准备一些自助简餐
+讲座之后，我们会为大家准备自助简餐
 
 **活动信息**
 
