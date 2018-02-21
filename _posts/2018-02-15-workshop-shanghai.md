@@ -75,7 +75,7 @@ Emanuele Protti, architect and phD researcher at Future Urban Legacy Lab in Poli
 ---
 
 
-**Date**: Saturday 3 March 2018  
+**Date**: Saturday March 3rd 2018  
 **Time** workshop: 10-5pm / talks : 5.30-8pm  
 **Language**: English+Chinese  
 **Place**: Xspace, Jiangning Rd 77 3rd Floor, 江宁路77号恒顺大楼3楼 - See on [Dianping / 点评网](http://www.dianping.com/shop/69177919)
@@ -94,5 +94,6 @@ Emanuele Protti, architect and phD researcher at Future Urban Legacy Lab in Poli
 
 This workshop is part of a larger research initiative at the [Institute of Area and Global Studies](https://cdh.epfl.ch/Area-and-Global-Studies) at EPFL in Switzerland and supported by the National Swiss Fund for research. A similar workshop is held in Shenzhen the week after.
 
+Made possible with the support of :
 
 ![](/uploads/workshop-shanghai/SWX_Logos_140722_Nha_v2_China.png)  
