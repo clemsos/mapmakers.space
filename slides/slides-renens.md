@@ -55,7 +55,7 @@ class:center
 ## Discourses about Creative City and Innovation
 ### How to observe what is really happening?
 
-![](/uploads/success-perception-vs-reality.jpg)
+![](/uploads/workshop/success-perception-vs-reality.jpg)
 
 ---
 class: center
