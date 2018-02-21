@@ -7,14 +7,58 @@ thumbnail: /uploads/workshop-shanghai/flyer_workshop_shanghai.jpg
 
 # Mapping Spaces for Making in Shanghai
 
+### **创客城市** 是一天的实验研究工作放为了记录，讨论和可视化上海创意和制造的空间和地点。
+
 ### Places and Spaces for Making is a 1-day multi-disciplinary research workshop to map, visualize and document places and spaces where people have been experimenting new ways to tinker with technology in Shanghai.
 
 ![Flyer Workshop Shanghai](/uploads/workshop-shanghai/flyer_workshop_shanghai.jpg)
 
+#### [Read in English below](#english)
 
-### 10-5pm : Workshop
+### 10-5pm : 工作放
+
+欢迎参加一个协同写作活动为了创造一本关于上海创客空间和城市变化的小册子。
+
+**活动里我们会干什么？**
+- 记录一些创客空间和地点的变化
+- 一起讨论，写东西，收藏数据，画地图和可视化图
+- 分享个人经验，介绍创客空间的项目
+- 认识新朋友，学习新技术，一起玩玩
+- 作出一小本书
+- 带来自己想法过来把它做出来！
+
+## 5.30-8pm : 结论和讲座
+
+大家一起总结，还会展示活动里作出的小册子。后面两个讲座：
+
+#### 瑞士修手机的文化：从非正式的修补到沉默的创新 —— Anaïs Bloch · 瑞士 · 日内瓦造型艺术学院（HEAD）
+Anaïs Bloch 是一个来自瑞士的产品设计师和日内瓦造型艺术学院（HEAD）和洛桑造型艺术学院（ECAL）的研究院和设计教师.他会介绍他由于瑞士修手机的文化的研究。[项目链接（英文）](https://www.hesge.ch/head/en/project/mobile-repair-cultures-informal-repair-silent-innovation-smartphone-case)
+
+![](/uploads/workshop-shanghai/head-mobilerepair.jpg)
+
+#### 新产业和空间变化 —— Emanuele Protti · 意大利 · 都灵理工大学（Polito)
+
+Emanuele Protti 是一个建筑师和博士研究院在都灵理工大学的Future Urban Legacy Lab（FULL）. 他会介绍他由于新城市经济现象对工业建筑和空间变化的研究。
+
+![](/uploads/workshop-shanghai/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg)
+
+讲座后，会有一些吃吃喝喝的。
+
+**活动信息**
+
+周六2018年三月三号  
+工作放: 10-5pm / 讲座 : 5.30-8pm  
+语言: English/中文  
+地点: 江宁路77号恒顺大楼3楼 —— [点评网](http://www.dianping.com/shop/69177919)  
+
+---
+
+<div id="english"></div>
+
+### 10-5pm : Workshop / 工作放
 
 Join us for a collaborative writing session where we will create a booklet containing texts, maps and visualizations about spaces for making in Shanghai.
+
 
 **What will we do during the day?**
 - Document spaces for makers and making in Shanghai
@@ -38,11 +82,11 @@ Join us for a collaborative writing session where we will create a booklet conta
 
 ##### Read more about the workshop [here](/2018/01/call-workshop/)
 
-## 5.30-8pm : Talks
+## 5.30-8pm : Talks / 结论和讲座
 
 We will give a presentation of the results, followed by two talks:
 
-#### Mobile Repair Culture by Anaïs Bloch (HEAD Geneva, Switzerland)
+#### Mobile Repair Culture ： from informal repair to silent innovation · by Anaïs Bloch (HEAD Geneva, Switzerland)
 
 ![](/uploads/workshop-shanghai/head-mobilerepair.jpg)
 
@@ -54,7 +98,7 @@ Anaïs Bloch is a designer and ethnographer, working both as scientific research
 
 [Project link](https://www.hesge.ch/head/en/project/mobile-repair-cultures-informal-repair-silent-innovation-smartphone-case)
 
-#### Places for a new industrial revolution, spaces for new economy by Emanuele Protti (Torino, Switzerland)
+#### Places for a new industrial revolution, spaces for new economy · by Emanuele Protti (Torino, Italy)
 
 ![](/uploads/workshop-shanghai/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg)
 
