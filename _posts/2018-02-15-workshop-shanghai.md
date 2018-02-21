@@ -5,13 +5,14 @@ subtitle: A collaborative writing session to create maps and visualization of sp
 thumbnail: /uploads/workshop-shanghai/flyer_workshop_shanghai.jpg
 ---
 
-# Mapping Spaces for Making in Shanghai
+![Flyer Workshop Shanghai](/uploads/workshop-shanghai/flyer_workshop_shanghai.jpg)
 
-### **创客城市** 是一天的实验研究工作放为了记录，讨论和可视化上海创意和制造的空间和地点。
 
 ### Places and Spaces for Making is a 1-day multi-disciplinary research workshop to map, visualize and document places and spaces where people have been experimenting new ways to tinker with technology in Shanghai.
 
-![Flyer Workshop Shanghai](/uploads/workshop-shanghai/flyer_workshop_shanghai.jpg)
+
+### **创客城市** 是一天的实验研究工作放为了记录，讨论和可视化上海创意和制造的空间和地点。
+
 
 #### [Read in English below](#english)
 
@@ -42,7 +43,7 @@ Emanuele Protti 是一个建筑师和博士研究院在都灵理工大学的Futu
 
 ![](/uploads/workshop-shanghai/urban_warehouse_factory_building_industrial_industry_structure_space-1170735.jpg)
 
-讲座后，会有一些吃吃喝喝的。
+讲座后，为了让大家交流分享，会为大家准备一些自助简餐
 
 **活动信息**
 
@@ -55,7 +56,7 @@ Emanuele Protti 是一个建筑师和博士研究院在都灵理工大学的Futu
 
 <div id="english"></div>
 
-### 10-5pm : Workshop / 工作放
+### 10-5pm : Workshop
 
 Join us for a collaborative writing session where we will create a booklet containing texts, maps and visualizations about spaces for making in Shanghai.
 
@@ -82,7 +83,7 @@ Join us for a collaborative writing session where we will create a booklet conta
 
 ##### Read more about the workshop [here](/2018/01/call-workshop/)
 
-## 5.30-8pm : Talks / 结论和讲座
+## 5.30-8pm : Talks
 
 We will give a presentation of the results, followed by two talks:
 
