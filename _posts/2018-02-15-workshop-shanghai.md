@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "March 3 - Workshop and talks in Shanghai"
+title: "Workshop and talks in Shanghai"
 subtitle: A collaborative writing session to create maps and visualization of spaces for making in Shanghai
 thumbnail: /uploads/workshop-shanghai/flyer_workshop_shanghai.jpg
 ---
@@ -97,3 +97,4 @@ This workshop is part of a larger research initiative at the [Institute of Area 
 Made possible with the support of :
 
 ![](/uploads/workshop-shanghai/SWX_Logos_140722_Nha_v2_China.png)  
+[]![](/uploads/workshop-shanghai/logo_XSPACE_白底.jpg)](http://xincafe.cn/)
