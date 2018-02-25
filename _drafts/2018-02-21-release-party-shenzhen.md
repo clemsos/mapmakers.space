@@ -30,6 +30,8 @@ Today, many everyday citizens remain in a world of quasi-magic where they believ
 Michelle Poon works in the field of architecture, art and research by combining engineering and interaction/user experience design towards immersive environments. The investigations are to examine patterns in perceptual mechanisms and social identities emerging in points-of-tensions: the physical and virtual, and the technical and abstract.  
 <small markdown="1">This project was made possible by [DESIGN TRUST](http://designtrust.hk), an initiative of the Hong Kong Ambassadors of Design.</small>
 
+**The day will end with drinks and snacks.**
+
 ---
 
   <h5 style="text-align:center">Join us on the Wechat group</h5>
