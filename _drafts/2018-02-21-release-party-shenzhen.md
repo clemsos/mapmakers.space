@@ -1,15 +1,14 @@
 ---
 layout: main
-title: "Web-to-book binding workshop + book launch at Design Society in Shenzhen"
+title: "Web-to-book binding workshop + book launch in Shenzhen - March 10th 2018"
 subtitle: "Bookbinding of the `Mapping Spaces for Making` booklet and presentation of `The Field Guide to Hacking` by Michelle Poon from DSL Hackerspace in Hong Kong"
 thumbnail: /uploads/workshop-shenzhen/workshop_shenzhen_thumbnail.jpg
 ---
 
 **Date**: Saturday March 10th 2018  
 **Time**: Workshop : 2pm-5pm / 5:30-7pm : talks  
-**Language**: English+Chinese
-**Place**: [Design Society](http://designsociety.cn/en), 1187 Wanghai Road, Shekou, Nanshan, Shenzhen, China // 深圳市南山区蛇口望海路1187号
-
+**Language**: English+Chinese  
+**Place**: [Shenzhen Design Center](http://www.szdesigncenter.org), 深圳市城市设计促进中心, 福田区中康路8号雕塑院A座301 // Shenzhen, Futian district,
 
 #### WORKSHOP (2-5pm) : From Web to Book · Bookbinding digital content
 
@@ -21,7 +20,19 @@ After this introduction, attendees will learn to bind book using technics inspir
 
 ![](/uploads/workshop-shenzhen/dsl-book-details.jpg)
 
-#### BOOK LAUNCH (5:30pm) : The Field Guide to Hacking · by Michelle Poon · Dim Sum Labs Hackerspace (Hong Kong)
+#### RESTITUTION (5:30pm) : Mapping Spaces for Making
+###### by Clément Renaud, Monique Bolli, Florence Graezer-Bideau & Marc Laperouzza  · Institute for Area and Global Studies, EPFL
+
+During the last ten years, Chinese cities have been the place for various initiatives and encounters trying to transform how technologies are made. Stakeholders of a growing “maker movement“ have become gradually interested by China’s gigantic industrial infrastructure, while governmental policies started promoting technological innovation as the new engine of national economy and global expansion towards Asia and Africa.
+
+From February 28th to March 10th 2018, we have been hosting a workshop called [MAPPING SPACES FOR MAKING](/2018/01/call-workshop/) in the cities of Shanghai and Shenzhen to re-collect how these ongoing transformations have been unfolding. Ethnographers, makers, policy-makers, media archeologists, designers, architects, geographers and artists used their knowledge and tools to create a unique book from the unique story of making in China.
+
+We will resitute what have been done during the 10 days and present workflow, tools and outcomes of the workshop.
+
+![](/uploads/workshop-shenzhen/PC-PowerSupply-Principle-Circuit.svg.png)
+
+
+#### BOOK LAUNCH (6:00pm) : The Field Guide to Hacking · by Michelle Poon · Dim Sum Labs Hackerspace (Hong Kong)
 
 Today, many everyday citizens remain in a world of quasi-magic where they believe only a special-class of techno-wizards (engineers, etc.) really understand what is going on. As a hackerspace, Dim Sum Labs strive to open up those black boxes and reveal the hidden mechanisms with their opportunities and dangers. The goal is to empower users through knowledge and provide them with the tools to take true control and ownership over their digital helpers. Thus, the intent of this book—to shrug off the misnomer and offer a handshake to the greater community—it is only reasonable to encourage others to hack, by showing you how.
 
@@ -39,33 +50,19 @@ Michelle Poon works in the field of architecture, art and research by combining 
     <img style="width:50%" src="/uploads/workshop-shenzhen/wechat-qrcode-shenzhen.png" />
   </p>
 
-### The Design Society
+### Shenzhen Design Center
 
-![](/uploads/workshop-shenzhen/design-museum.jpg)
+![](/uploads/workshop-shenzhen/shenzhen-design-center.jpeg)
 
-Design Society is many things. Its identity lies in its capacity to combine, connect, cross-fertilize and, by doing so, transcend cultural territories and boundaries as we know them. It is many things, and at the same time it is clearly a new thing that requires its own name to go beyond the sum of its parts: hence Design Society.
+Shenzhen Design Center
 
 ##### Directions
 
-* **Metro**	Take Line 2 (Shekou Line) to Sea World Station (Exit A)
-* **Bus**	Take No. 204, 206, 331, 332, 355, K105, K204 to Sea World Station
-* **Driving**	Search "Sea World Culture & Arts Center" on Baidu Map or Amap
+* **Metro**
+* **Bus**
+* **Driving**
 
-[Official Website](http://designsociety.cn/en/)
-
-### 设计互联
-
-##### 交通方式
-
-设计互联是一个综合创新文化平台，以设计启迪生活，以设计链接产业，文化与商业在这里融合。本机构致力于聚合政府、学界、投资界、产业界等一切有创意思想和设计热情的人士与团体，为推动中国创意产业的迅猛发展做出贡献。
-
-[官方网站](http://designsociety.cn/cn/)
-
-**地铁** 乘坐地铁2号线（蛇口线）至“海上世界”A出口
-**公交** 乘坐204、226、331、332、355、K105、K204等线路至“海上世界站”下车
-**自驾** 百度地图或高德地图搜索“海上世界文化艺术中心”
-
-![](/uploads/workshop-shenzhen/map-design-society.jpg)  
+[Official Website](http://szdesigncenter.org)
 
 
 This workshop is part of a larger research initiative at the [Institute of Area and Global Studies](https://cdh.epfl.ch/Area-and-Global-Studies) at EPFL in Switzerland and supported by the National Swiss Fund for research.
