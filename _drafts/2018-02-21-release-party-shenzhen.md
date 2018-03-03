@@ -12,38 +12,44 @@ thumbnail: /uploads/workshop-shenzhen/workshop_shenzhen_thumbnail.jpg
 * **语言**: English/中文
 * **地点**:  深圳市城市设计促进中心 · 地址：深圳市福田区上梅林中康路8号雕塑院圆筒 · 地铁： 4号线莲花北路，B出口
 
-前几十年，新的制造空间出现在中国的城市里，又改变了怎么创造技术。最近，国际的“创客”对中国的新制造流程和基础建設越来越感兴趣。同时，北京政府也把创新成为主要的本体和国际开发渠道。
+前十几年，新型制造空间出现在中国的城市里，他们逐渐改变了创造技术的方式。近期，国际创客人士对于中国的新制造流程和基础建設表示出浓厚地兴趣。同时，中国政府又提出要把创新概念，实际运用到开发新型产业当中去，并与世界接轨。
 
-”创客城市”是关一个瑞士罗撒理工大学的研究项目于在中国这十年的動力邂逅和变化。这个工作放会介绍早期的研究结果额过程，包括在上海和深圳前十天的检查。
+”创客城市”是瑞士洛桑理工大学的一个研究项目，研究的课题是中国十几年以来创意空间的变化和发展。本次工作坊将会介绍洛桑理工大学”创客城市”项目的研究结果，包括最近他们在上海和深圳做调研的成果。
 
-我们会发布[”创客城市”小册子](http://zine.mapmakers.space)的第一个版本。来自香港DSL创客空间的Michelle Poon会介绍她的新书 *The Field Guide to Hacking*.
+我们会发布[”创客城市”小册子](http://zine.mapmakers.space)的第一个版本。来自香港DSL创客空间的Michelle Poon也将会介绍她的新书 *The Field Guide to Hacking*.
 
-#### 工作坊 (下午2到5点) : 把网络和地图裝訂成冊
+#### 工作坊 (下午2到5点) : 把网络里所搜集到的数据用做地图的方式呈现出来，并裝訂成冊。
 
-我们团队会解释具体的实验研究方式，包括话地图和可视化图，还有怎么把跟本体和网友一起去写和出版一本实体的书。
+团队成员将会为大家讲解工作坊的具体工作方式和流程，包括如何画地图与可视化图片，并且在短时间内怎样创造和出版一本带有设计感和实验性的书册。
 
-参加者会学一些裝訂书的技术，还有基础的焊接技术用小电子版 —— 欢迎大人和孩子：）
+同时，参加活动的朋友将会学习裝訂书册的技术，还有制作小电子板的基本焊接技术（欢迎小朋友们的加入）。
 
 ![](/uploads/workshop-shenzhen/dsl-book-details.jpg)
 
-#### 讲座 (5：30点) : ”创客城市”项目
+#### 讲座 (5：30点) : 关于 “创客城市″项目的研究成果
+
 ###### Clément Renaud, Monique Bolli, Florence Graezer-Bideau & Marc Laperouzza  · 瑞士 · 罗撒理工大学
 
-从2月28号到3月10号，我们几个人类学家，设计师，地理学家，建筑师，经济学家，创客， 都一起去[深圳和上海考察](/2018/01/call-workshop/)城市的技术产业和创造流程。这个讲座会**介绍早期的研究结果**。
+团队成员以及参与本次项目的其他研究员，当中包括人类学家，设计师，地理学家，建筑师，经济学家，创客。
+
+今年年初， 项目团队在[深圳和上海考察](/2018/01/call-workshop/)做调研工作，主要考察中国城市里的新型技术产业与其创造的流程。讲座将会重点**介绍“创客城市″项目的研究结果**。
+
 
 ![](/uploads/workshop-shenzhen/PC-PowerSupply-Principle-Circuit.svg.png)
 
-#### 书发布会 (6点) : The Field Guide to Hacking · Michelle Poon · Dim Sum Labs 创客空间 (香港)
+#### 书发布会 (6点) : 《The Field Guide to Hacking 》 Michelle Poon · Dim Sum Labs 创客空间 (香港)
 
-Michelle Poon是[Dim Sum Labs](https://www.dimsumlabs.com/)创客空间的创造者之一。她会介绍她新写的一本书“The Field Guide to Hacking”。
+Michelle Poon是香港[Dim Sum Labs](https://www.dimsumlabs.com/)创客空间的创造者之一。她将会带着自己的新书《The Field Guide to Hacking》与大家见面。
 
-Michelle Poon工作存在建筑，研究和艺术的边界。她用工程和交互设计去创造身臨其境的感觉。他的作品检查社会和感知的模式为了找出张力点：实质下和上，技术和抽象。
+Michelle Poon 的工作范围界定于艺术与建筑的边界。她的作品市场会用工程和交互设计去创造身臨其境的感觉。同时，技术和社会关系也是 Michelle Poo 长期的研究课题。
 
 ![](/uploads/workshop-shenzhen/cover.jpg)![](/uploads/workshop-shenzhen/michelle.png)
 
 <div id="english"></div>
 
-##### 晚上8点以后： 讲座之后，我们会为大家准备一些简餐。
+##### 自由交流  ( 晚上8点 )： 讲座结束后，是活动参与者们的交流时间，与此同时，主办方会为大家准备一些简餐。
+
+###### 欢迎你的加入，谢谢 !
 
 ---
 
