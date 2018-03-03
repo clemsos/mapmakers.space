@@ -28,7 +28,7 @@ thumbnail: /uploads/workshop-shenzhen/workshop_shenzhen_thumbnail.jpg
 
 #### 讲座 (5：30点) : 关于 “创客城市″项目的研究成果
 
-###### Clément Renaud, Monique Bolli, Florence Graezer-Bideau & Marc Laperouzza  · 瑞士 · 罗撒理工大学
+###### Clément Renaud, Monique Bolli, Florence Graezer-Bideau & Marc Laperouzza  · 瑞士联邦理工大学(洛桑)
 
 团队成员以及参与本次项目的其他研究员，当中包括人类学家，设计师，地理学家，建筑师，经济学家，创客。
 
@@ -41,7 +41,7 @@ thumbnail: /uploads/workshop-shenzhen/workshop_shenzhen_thumbnail.jpg
 
 Michelle Poon是香港[Dim Sum Labs](https://www.dimsumlabs.com/)创客空间的创造者之一。她将会带着自己的新书《The Field Guide to Hacking》与大家见面。
 
-Michelle Poon 的工作范围界定于艺术与建筑的边界。她的作品市场会用工程和交互设计去创造身臨其境的感觉。同时，技术和社会关系也是 Michelle Poo 长期的研究课题。
+Michelle Poon 的工作范围界定于艺术与建筑的边界。她的作品时常会用工程和交互设计去创造身临其境的感觉。同时，技术和社会关系也是 Michelle Poo 长期的研究课题。
 
 ![](/uploads/workshop-shenzhen/cover.jpg)![](/uploads/workshop-shenzhen/michelle.png)
 
