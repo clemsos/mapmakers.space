@@ -1,7 +1,7 @@
 ---
 layout: main
-title: "Web-to-book binding workshop + book launch in Shenzhen - March 10th 2018"
-subtitle: "Bookbinding of the `Mapping Spaces for Making` zine and presentation of `The Field Guide to Hacking` by Michelle Poon from DSL Hackerspace in Hong Kong"
+title: "Web-to-book binding workshop + book launch in Shenzhen"
+subtitle: "March 10th 2018 - Bookbinding of the `Mapping Spaces for Making` zine and presentation of `The Field Guide to Hacking` by Michelle Poon from DSL Hackerspace in Hong Kong"
 thumbnail: /uploads/workshop-shenzhen/workshop_shenzhen_thumbnail.jpg
 ---
 
