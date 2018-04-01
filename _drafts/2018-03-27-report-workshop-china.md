@@ -62,11 +62,11 @@ zine:
 
 ---
 
-Ten days of intense fieldwork, visits and interviews of the MapMakers project ended with the production of a small booklet during the final event in Shenzhen. The following article gives a brief overview of how this research trip unfolded and some of the early takeaways.
+Ten days of intense fieldwork, visits and interviews of the MapMakers project ended with the production of a small booklet during the final event in Shenzhen. The following article gives a brief overview of this research trip and some of the early takeaways.
 
 ## The fieldwork
 
-During the *Mapping Spaces for Making* workshop, we wanted to re-collect how different spaces that have been instrumental in the storytelling of makers in Shanghai and Shenzhen have been transforming over the years. During 10 days, a research team of 4 to 6 people have been collecting pictures, drawings, maps, data and recordings during visits into these different spaces.
+During the *Mapping Spaces for Making* workshop, we wanted to re-collect how different spaces that have been instrumental in the unfolded of maker communities in Shanghai and Shenzhen - and how they have been transforming over the years. During 10 days, a research team of 4 to 6 people have been collecting pictures, drawings, maps, data and recordings during visits into these different spaces.
 
 ![](/uploads/team.jpg)
 
@@ -80,7 +80,7 @@ The research team was made of :
 - Marc Laperouzza, economist at EPFL
 
 
-We spent 5 days in each city : 4 days of investigation and 1 day dedicated to public restitution. Altogether, we visited a dozen of spaces from the smallest fablab to larger electronic retail cluster. The information we collected will be subject to publication under different forms (online blogging, scientific articles, book, etc). For now, we will take the time during the following months to process all this data.
+We spent 5 days in each city : 4 days of investigation and 1 day dedicated to public restitution. Altogether, we visited a dozen of spaces from the smallest fablab to the largest electronic retail cluster on earth. We collected lots of different information that will be subject to publication under different forms (online blogging, scientific articles, book, etc) in the following months.
 
 
 ## Making the prototype of a book
@@ -89,15 +89,15 @@ We spent 5 days in each city : 4 days of investigation and 1 day dedicated to pu
 
 ![](/uploads/laurent.jpg)
 
-*Object map by Laurent, living and working in Guangong for several years.*
+*Five years around in Guangdong - object mapping by Laurent.*
 
-As our goal was to learn about how things are made in China, we decided that we should make something. As researchers, we usually do books. Therefore, we decided to make a book in the short span of time of our investigation (10 days). One of the goal was to understand and provide a clear example of the legendary *Shenzhen speed*, in the city were products usually raise and fell in a matter of days.  
+As our goal was to learn about how things are made in China, we decided that we should make something. As researchers, our main work concerns books. Therefore, we decided to make a book - well, a zine - in the short span of time of our investigation. One of the goal was to understand and provide a clear example of the legendary *Shenzhen speed*, in the city were products usually raise and fell in a matter of days.  
 
-Words changing in meaning and use, places disappearing or moving, people leaving or arriving... One of the great challenge for researchers in China is the velocity of changes. To understand better the incredible pace of things here, we inflict a very ambitious time constrain by setting the goal of making a book in a few days. After 8 days of fieldwork, we spent a day selecting materials, defining a plan and compiling into a booklet. It was a late night on inDesign, as you may imagine.  
+Words changing in meaning and use, places disappearing or moving, people leaving or arriving... one of the great challenge for researchers in China is the velocity of changes. To understand better the incredible pace of things here, we inflict an ambitious time constrain on ourselves by setting the goal of making a book in a few days. After 8 days of fieldwork, we spent a day selecting materials, defining a plan and compiling into a booklet. It was a late night on inDesign, as you may imagine.  
 
-We did not aim at having a full analysis written. We know that scientific publishing takes time. Our goal was to put together a first version of a book that will continue to evolve with the following steps of this research. We still have to explore all the data and materials we collected, write proper reporting and methodological notes, and of course providing interesting and useful analysis based on these.
+We did not aim at having a fully written analysis. Scientific writing takes time. Our goal was to capture the raw energy that drives things in Shenzhen by putting together a first version of a book that will continue to evolve as this research goes on. Next steps will be dedicated to the exploration of materials we collected during this session and fieldwork before that.
 
-For this very first version, we decided to just present elements of methodology we used as an introduction. This book still to come and is in the making. Here is a first preview.
+For this very first version of the book, we decided to just present raw elements of methodology we used. This book still to come and is in the making. Here is a first preview, as an introduction.
 
 <style>
   #slideshow-zine {
@@ -116,7 +116,10 @@ You can find a digital copy in <a target="blank" href="/uploads/180211_zine_v0.p
 
 ## The workshops
 
-As part of the research process, we pay specific attention in the ways we describe our intentions and interact with the different people we met. We had the idea to organize workshop focusing on mapping and presenting results. The workshops were very successful with more than 50 people altogether during the sessions held in [Shanghai XSpace on March 3rd](/2018/02/workshop-shanghai/) and [Shenzhen Design Center on March 10th](/2018/02/release-party-shenzhen/).
+As part of the research process, we pay specific attention in the ways we describe our intentions and interact with the different people we meet. During fieldwork, researchers usually come, extract and leave. Most research results never make it back to the people that have been interrogated. For that reason, we decided it was important to find a time locally to present the early results of the projects and share back some of our personal work. It was also a great moment to confront our research with participants and gather new feedbacks.
+
+The workshops were successfully held in [Shanghai XSpace on March 3rd](/2018/02/workshop-shanghai/) and [Shenzhen Design Center on March 10th](/2018/02/release-party-shenzhen/), with more than 50 people altogether attending the sessions.
+
 
 ### at xSpace in Shanghai
 
@@ -157,4 +160,8 @@ The evening session was dedicated to more discussions and further presentation o
 
 ### A book to come
 
-The production of this first draft was an intense experience, with lots of learning that still have to be processed. During the next months, we will be building upon what we started - stay tuned!  
+Beyond our small group, involving more participants in this research though events and focusing on making this booklet was a fascinating experience. It brought a diversity of opinions and problems that provided a large amount of empirical learning. The focus on real-time action allow us to get a grasp of the fast-changing context, and how spatial and urban resources intervene when pressure is building up as product delivery gets closer.
+
+One of the most important tool in the whole process was without a doubt *WeChat*. The messaging (and much more) app constitutes the backbone for our daily discussions within and without the team. We built different chat groups for internal discussions, specific events, coordination, etc. All of them fulfil different functions and turned out to be quite different in organisation and contents.
+
+The production of this first book draft was an intense experience, with lots of learning that still have to be processed. During the next months, we will continue building upon what we started - stay tuned!  
