@@ -101,12 +101,12 @@ For this very first version, we decided to just present elements of methodology 
 
 <style>
   #slideshow-zine {
-    text-align:center;
+    text-align: center;
   }
 
   #slideshow-zine img {
     margin: 0 auto;
-    height:50vh;
+    max-height: 50vh;
     width:auto !important;
   }
 </style>
@@ -155,6 +155,6 @@ The evening session was dedicated to more discussions and further presentation o
 *The whole day was hosted graciously by the [Shenzhen Center for Urban Design and Architecture](http://www.szdesigncenter.org/?lang=en). Thank you!*
 
 
-### The first version (v0) of the book
+### A book to come
 
-You will find here the version of the book that has been printed. The production of this first draft was an intense experience, with lots of learning that still have to be processed. During the next months, we will be building upon what we started - stay tuned!  
+The production of this first draft was an intense experience, with lots of learning that still have to be processed. During the next months, we will be building upon what we started - stay tuned!  
