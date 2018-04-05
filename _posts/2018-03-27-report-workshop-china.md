@@ -72,10 +72,10 @@ During the *Mapping Spaces for Making* workshop, we wanted to re-collect how dif
 
 The research team was made of :
 
-- Clément Renaud, geographer and computer scientists from EPFL
-- Monique Bolli, phD student in social anthropology
+- Clément Renaud, geographer and computer scientist at EPFL
+- Monique Bolli, phD student in social anthropology at EPFL
 - Anais Bloch, product designer and researcher at HEAD Geneva
-- Emanuele Protti, architect at Polytechnico Torino
+- Emanuele Protti, phD student at Politecnico di Torino
 - Florence Graezer-Bideau, anthropologist at EPFL
 - Marc Laperrouza, economist at EPFL
 
@@ -173,4 +173,4 @@ Thanks to our local partners and to Swissnex China for their support
 [![](/uploads/workshop-shanghai/logo_XSPACE_白底.jpg)](http://xincafe.cn/) [![](/uploads/workshop-shenzhen/aformalacademy.jpeg)](https://www.aformalacademy.com) [![](/uploads/workshop-shenzhen/shenzhen-design-center.png)](http://www.szdesigncenter.org)
 
 
-![](/uploads/workshop-shanghai/SWX_Logos_140722_Nha_v2_China.png)  
+[![](/uploads/workshop-shanghai/SWX_Logos_140722_Nha_v2_China.png)](http://www.swissnexchina.org)  
