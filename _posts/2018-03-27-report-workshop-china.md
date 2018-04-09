@@ -70,6 +70,8 @@ During the *Mapping Spaces for Making* workshop, we wanted to re-collect how dif
 
 ![](/uploads/team.jpg)
 
+<p style="text-align:right"><small><em>Dessins par Anaïs Bloch</em></small></p>
+
 The research team was made of :
 
 - Clément Renaud, geographer and computer scientist at EPFL
