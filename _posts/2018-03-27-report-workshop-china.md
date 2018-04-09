@@ -75,8 +75,8 @@ The research team was made of :
 - Clément Renaud, geographer and computer scientist at EPFL
 - Monique Bolli, phD student in social anthropology at EPFL
 - Anais Bloch, product designer and researcher at HEAD Geneva
-- Emanuele Protti, phD student at Politecnico di Torino
-- Florence Graezer-Bideau, anthropologist at EPFL
+- Emanuele Protti, phD student in architecture and design at Politecnico di Torino
+- Florence Graezer Bideau, anthropologist at EPFL
 - Marc Laperrouza, economist at EPFL
 
 
